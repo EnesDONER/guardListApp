@@ -10,7 +10,15 @@ Daha adaletli bir sistem için manuel olarak atama yapamazsınız! Nöbet listes
 
 [Buraya tıklayarak canlı demoyu görebilirsiniz!](https://nobet-yaz.netlify.app/) 
 
+### Linke Erişim Sonlanmışsa
+
+GuardListApp.rar dosayını bilgisayarınızda rardan çıkarın. 
+run.bat dosyasyını çalıştırın.
+Tarayıcıda http://localhost:8080/ adresine gidin.
+Uygulamayı çalıştırmak için GuardListApp.rar yeterlidir. Başka bir şey kurmanıza ve kaynak kodu da kulanmanıza gerek yoktur.
+
 ## Uyarı
 
 Her yazılım gibi bu yazılımda kusursuz değildir. Nöbetlerin birinin denetimi ile yapılmasını sağlayın.
 Bu kod Enes DÖNER tarafından geliştirilmiştir. Tüm hakları saklıdır. Ticari amaçla kullanılamaz.
+Ticari amaçla kullanmak istiyorsanız businessenesdoner@gmail.com adresinden bana ulaşabilirsiniz.
